@@ -8,13 +8,13 @@ GoLangsam, *Sam* - Go **Slowly** - slowly *slowly* ... careful *carful* :-)
 ---
 ## Repositories
  
-#### [container/](https://github.com/GoLangsam/container/README.md)
+#### [container/](https://github.com/GoLangsam/container/blob/master/README.md)
 [![Build Status](https://travis-ci.org/GoLangsam/container.svg?branch=master)](https://travis-ci.org/GoLangsam/container)
 
-#### [do/](https://github.com/GoLangsam/do/README.md)
+#### [do/](https://github.com/GoLangsam/do/blob/master/README.md)
 [![Build Status](https://travis-ci.org/GoLangsam/do.svg?branch=master)](https://travis-ci.org/GoLangsam/do)
 
-#### [internal/](https://github.com/GoLangsam/internal/README.md)
+#### [internal/](https://github.com/GoLangsam/internal/blob/master/README.md)
 [![Build Status](https://travis-ci.org/GoLangsam/internal.svg?branch=master)](https://travis-ci.org/GoLangsam/internal)
 
 ---
