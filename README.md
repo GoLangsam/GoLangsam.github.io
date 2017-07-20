@@ -41,4 +41,39 @@ Templates, and ready-to-use go lang source files - generated with dotgo.
 ---
 ## History
 
+Late summer 2016 I started to become a `ʕ◔ϖ◔ʔ` when a friend introduced me to [go](https://golang.org)
+
+At first I studied [*The Go Programming Language*](http://www.gopl.io/) by *Alan A.A. Donovan* and *Brian Kernighan*.
+Having seen a few other writings, I still consider it ***the*** book about the language and am thankful to my friend, who gave it to me.
+
+So I played around at first with some simple tools and familiarised myself with idioms and work flow.
+One such tool helped me to generate plenty of textfiles I needed from some simple data structures.
+Just: these structures were anything but stable - and it became anoying to me to always have to change code a little, and rebuild.
+Thus: The idea / vision of an agnostic generator was born - but left dormant for a while.
+
+Then I chose a more amitious challange: `dlx` - a fresh look at an old, fast and underrated backtracking algorithm
+(to be published and commented upon another day).
+
+Early spring 2016 I got more interested in **concurrency**.
+The famous slides [Concurrency is not parallelism](http://blog.golang.org/concurrency-is-not-parallelism) made me see interesting patterns.
+Just: for sake of teaching, they were kept to a minimal coding - which sacrificed quality.
+And they worked with `int` only, not with 'my favourite type'.
+
+Thus: I started to make templates about piping with channels and spawned go routines,
+and at the same time to build my agnostic generator `dotgo`.
+Latter took longer than expected ;-)
+Just: I did not want to compromise on some of my ambitious (and initially somewhat vague) ideas.
+
+As of now, I am still busy to polish and publish the software,
+and to enhance the functionalities given by the template generated code,
+both in functional ways (e.g. adding Fan-In's and FanOut)
+as well as in terms of what I call `flavours`,
+which includes isomorph support of Suppy & Demand channels
+as well as to support timeouts and/or cancels (e.g. using `context.Context`).
+
+For the time being,
+please find more details [here](https://github.com/GoLangsam/AnyType/blob/master/chan/ReadMe.md),
+and templates as well as generated go source code [here](https://github.com/GoLangsam/AnyType/tree/master/chan)
+
+## Time ago
 [![Time ago](sharpen2.jpg)](http://www.LinkedIn.com/in/AndreasPannewitz)
