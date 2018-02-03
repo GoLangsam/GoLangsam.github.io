@@ -101,3 +101,8 @@ to be shared another day - maybe ;-)
 
 ## Time ago
 [![Time ago](sharpen2.jpg)](http://www.LinkedIn.com/in/AndreasPannewitz)
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/GoLangsam/GoLangsam.github.io/badge.svg?style=beer-square)](https://beerpay.io/GoLangsam/GoLangsam.github.io)  [![Beerpay](https://beerpay.io/GoLangsam/GoLangsam.github.io/make-wish.svg?style=flat-square)](https://beerpay.io/GoLangsam/GoLangsam.github.io?focus=wish)
