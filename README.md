@@ -7,7 +7,9 @@ GoLangsam, *Sam* - Go **Slowly** - slowly *slowly* ... careful *carful* :-)
 
 ---
 ## Repositories
- 
+
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/GoLangsam/GoLangsam.github.io.svg?columns=all)](https://waffle.io/GoLangsam/GoLangsam.github.io)
+
 - [container/](https://github.com/GoLangsam/container/blob/master/README.md)
 Don't show me Your code - show me Your data!
 
@@ -36,8 +38,13 @@ Don't show me Your code - show me Your data!
 
 	Note: to **fix** the build error, we need reply to ticket [Issue #21215](https://github.com/golang/go/issues/21215) from golang. Just hang on ...
 
+## current Projects
+
+- TODO
+
+
 ---
-## Projects
+## elder Projects
 - [AnyType/](https://github.com/GoLangsam/AnyType/blob/master/README.md)
 Templates, and ready-to-use go lang source files - generated with dotgo.
 
