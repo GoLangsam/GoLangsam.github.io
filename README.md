@@ -36,8 +36,6 @@ Don't show me Your code - show me Your data!
 	[![Go Report Card](https://goreportcard.com/badge/github.com/GoLangsam/internal)](https://goreportcard.com/report/github.com/GoLangsam/internal)
 	[![GoDoc](https://godoc.org/github.com/GoLangsam/do?status.svg)](https://godoc.org/github.com/GoLangsam/do)
 
-	Note: to **fix** the build error, we need reply to ticket [Issue #21215](https://github.com/golang/go/issues/21215) from golang. Just hang on ...
-
 ## current Projects
 
 - TODO
@@ -68,7 +66,7 @@ Templates, and ready-to-use go lang source files - generated with dotgo.
 ---
 ## History
 
-Late summer 2016 I started to become a `ʕ◔ϖ◔ʔ` when a friend introduced me to [go](https://golang.org)
+Late summer 2016 I started to become a `?????` when a friend introduced me to [go](https://golang.org)
 
 At first I studied [*The Go Programming Language*](http://www.gopl.io/) by *Alan A.A. Donovan* and *Brian Kernighan*.
 Having seen a few other writings, I still consider it ***the*** book about the language and am thankful to my friend, who gave it to me.
@@ -109,6 +107,13 @@ to be shared another day - maybe ;-)
 ## Time ago
 [![Time ago](sharpen2.jpg)](http://www.LinkedIn.com/in/AndreasPannewitz)
 
+---
+Your suggestions, remarks, questions and/or contributions are welcome ;-)
+
+---
+## Think deep - code happy - be simple - see clear :-)
+
+---
 ## Support on Beerpay
 Hey dude! Help me out for a couple of :beers:!
 
