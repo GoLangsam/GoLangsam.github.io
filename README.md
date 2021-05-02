@@ -64,7 +64,7 @@ Templates, and ready-to-use go lang source files - generated with dotgo.
 ---
 ## History
 
-Late summer 2016 I started to become a `?????` when a friend introduced me to [go](https://golang.org)
+Late summer 2016 I started to become a `\_O_/` when a friend introduced me to [go](https://golang.org)
 
 At first I studied [*The Go Programming Language*](http://www.gopl.io/) by *Alan A.A. Donovan* and *Brian Kernighan*.
 Having seen a few other writings, I still consider it ***the*** book about the language and am thankful to my friend, who gave it to me.
@@ -74,7 +74,7 @@ One such tool helped me to generate plenty of textfiles I needed from some simpl
 Just: these structures were anything but stable - and it became anoying to me to always have to change code a little, and rebuild.
 Thus: The idea / vision of an agnostic generator was born - but left dormant for a while.
 
-Then I chose a more amitious challange: `dlx` - a fresh look at an old, fast and underrated backtracking algorithm
+Then I chose a more ambitious challange: `dlx` - a fresh look at an old, fast and underrated backtracking algorithm
 (to be published and commented upon another day).
 
 Early spring 2016 I got more interested in **concurrency**.
