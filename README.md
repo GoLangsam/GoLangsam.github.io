@@ -1,14 +1,12 @@
 # GoLangsam.github.io
 
-GoLangsam, *Sam* - Go **Slowly** - slowly *slowly* ... careful *carful* :-) 
+GoLangsam, *Sam* - Go **Slowly** - slowly *slowly* ... careful *careful* :-) 
 
 ---
 [![Contemplating](IMG_3303-Cover.JPG)](https://www.facebook.com/profile.php?id=100010767854787)
 
 ---
 ## Repositories
-
-[![Waffle.io - Columns and their card count](https://badge.waffle.io/GoLangsam/GoLangsam.github.io.svg?columns=all)](https://waffle.io/GoLangsam/GoLangsam.github.io)
 
 - [container/](https://github.com/GoLangsam/container/blob/master/README.md)
 Don't show me Your code - show me Your data!
@@ -114,7 +112,3 @@ Your suggestions, remarks, questions and/or contributions are welcome ;-)
 ## Think deep - code happy - be simple - see clear :-)
 
 ---
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/GoLangsam/GoLangsam.github.io/badge.svg?style=beer-square)](https://beerpay.io/GoLangsam/GoLangsam.github.io)  [![Beerpay](https://beerpay.io/GoLangsam/GoLangsam.github.io/make-wish.svg?style=flat-square)](https://beerpay.io/GoLangsam/GoLangsam.github.io?focus=wish)
